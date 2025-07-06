@@ -2,6 +2,8 @@
 
 A comprehensive machine learning web application for predicting Titanic passenger survival using advanced data analysis and multiple ML algorithms.
 
+## 🔗 Streamlit App Link - https://titanic-survival-prediction-webapp.streamlit.app/
+
 ## ✨ Features
 
 - **📊 Interactive Data Upload**: Upload your own CSV datasets
