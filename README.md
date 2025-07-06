@@ -285,14 +285,4 @@ Feel free to fork this project and submit pull requests for improvements! Areas 
 
 This project is open source and available under the MIT License.
 
----
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the troubleshooting section above
-2. Review the step-by-step guide
-3. Ensure all dependencies are properly installed
-4. Verify your data format matches the requirements
-
 **Happy Predicting! 🚢✨**
